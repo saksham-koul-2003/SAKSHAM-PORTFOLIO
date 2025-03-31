@@ -1,6 +1,6 @@
 {
-  "name": "beautiful-portfolio",
-  "homepage": "https://machadop1407.github.io/pedrotech-portfolio",
+  "name": "SAKSHAM-PORTFOLIO",
+  "homepage": "https://saksham-koul-2003.github.io/saksham-portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
@@ -15,6 +15,7 @@
   "dependencies": {
     "@tailwindcss/vite": "^4.0.0",
     "emailjs-com": "^3.2.0",
+    "framer-motion": "^12.6.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
     "tailwindcss": "^4.0.0"
